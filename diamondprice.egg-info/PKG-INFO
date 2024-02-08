@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: diamondprice
+Version: 0.0.1
+Author: bhanu
+Author-email: bhanupratap222333@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: Flask
+Requires-Dist: seaborn
